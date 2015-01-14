@@ -246,16 +246,16 @@ public class MainActivity extends Activity implements GameListener {
 			// test^
 
 		} catch (Exception e) {
-			
+
 			e.printStackTrace();
 			Utilities.toast(this, "Error in game setup");
 			finish();
-			
+
 		}
 	}
 
 	private void draw(Player p) {
-
+		
 	}
 
 	@Override
