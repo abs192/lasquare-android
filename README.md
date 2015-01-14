@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## lasquare
 
 ### online multiplayer game
-=======
-=======
->>>>>>> 45a05d210d3a727929d692ba09a1fbcd888d638d
+
 # lasquare-android
 
 ### online multiplayer game
@@ -22,7 +18,3 @@
     
 ### Web app
 `https://github.com/raunaqrox/lasquare`
-<<<<<<< HEAD
->>>>>>> 45a05d210d3a727929d692ba09a1fbcd888d638d
-=======
->>>>>>> 45a05d210d3a727929d692ba09a1fbcd888d638d
